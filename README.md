@@ -1,5 +1,8 @@
 # libretro-thumbnails
-Thumbnails for RetroArch
+Thumbnails for RetroArch 
+
+## Info
+ROM Name based on REDUMP
 
 ## Usage
 
